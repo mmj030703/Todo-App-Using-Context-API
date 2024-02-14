@@ -4,7 +4,7 @@ This Todo app is built using React and the Context API, allowing users to add, v
 
 ## Live
 
-[Link](https://your-demo-url.com)
+[Todo App](https://todo-app-react-context-api.netlify.app/)
 
 ## Screenshots
 
@@ -31,7 +31,7 @@ This Todo app is built using React and the Context API, allowing users to add, v
 
 ## Demo
 
-You can try the demo of this Todo app [here](https://your-demo-url.com).
+You can try the demo of this Todo app [here](https://todo-app-react-context-api.netlify.app/).
 
 ## Installation
 
