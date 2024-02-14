@@ -1,0 +1,2 @@
+// We have created this file for creating a central space from where all the components can import the data of Spcific Contexts (Different Contexts can be present like TodoContext, UserContext, LoginContext, ThemeContext) from one place so dont need to write separate file names every time we can import from index.js directly every time. It saves times for every time looking for correct name and avoiding writing big file names. 
+export { TodoContext, TodoContextProvider, useTodoContext } from './TodoContext';
